@@ -1,0 +1,21 @@
+# Agent/editor scaffolding
+.cursor/
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / env / local config
+.idea/
+.env
+*conf*.json
+
+# OS
+.DS_Store
+
+# Never commit re-identification material for the pseudonymized CSVs
+*mapping*.json
+salt.txt

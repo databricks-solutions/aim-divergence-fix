@@ -1,0 +1,4 @@
+id,applicationId,currentExternalId,targetExternalId,errorCategories,action
+293990618813353,a1f3c9d2-4b8e-4c1a-9f2d-1e6b7c8a9d01,,2a9b1c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d,NAME_MATCH_EXTERNAL_ID_MISMATCH,PATCH externalId -> targetExternalId via Account SCIM ServicePrincipals; gated by LINK_SERVICE_PRINCIPALS; log the call for rollback
+952720537851596,b2e4d0a3-5c9f-4d2b-8a3e-2f7c8d9b0e12,9f8e7d6c-5b4a-3928-1706-fedcba987654,3b0c2d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e,NAME_MATCH_EXTERNAL_ID_MISMATCH,PATCH externalId -> targetExternalId via Account SCIM ServicePrincipals; gated by LINK_SERVICE_PRINCIPALS; log the call for rollback
+828791735862864,c3f5e1b4-6d0a-4e3c-9b4f-3a8d9e0c1f23,,4c1d3e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f,NAME_MATCH_EXTERNAL_ID_MISMATCH,PATCH externalId -> targetExternalId via Account SCIM ServicePrincipals; gated by LINK_SERVICE_PRINCIPALS; log the call for rollback

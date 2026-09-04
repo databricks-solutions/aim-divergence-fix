@@ -1,0 +1,8 @@
+id,groupName,currentExternalId,candidateCount,candidateExternalIds,disposition
+92789172831532,test,,7,652b5a88-6611-452d-a06d-65d2c9895100;0ea65a98-2622-4708-a910-1b5ab64b3e46;a7f7a270-7f4d-41bc-a40c-0199b735b93f;8d982b66-151f-4670-aaab-691c68b14ee1;f06221d5-4f2c-4f3f-a75b-52b2afc630d3;9d930e0e-f6fa-4773-a866-2343e5850ec2;5a32156f-1a32-44d2-a1c1-e70608711bef,AMBIGUOUS: 7 IdP groups share this name. Manual decision required (most likely delete/rename the local group).
+483428239671161,EXAMPLE-GROUP-333,,1,e5a9deb6-7a02-4b9f-a6b8-c1541772614b,"Single IdP match. Either PATCH externalId=candidate to link, OR rename/remove local group so IdP group can claim the name."
+263410880849928,EXAMPLE-GROUP-567,,1,e99f96e4-08e9-4374-a3ef-0953c04e5b9d,"Single IdP match. Either PATCH externalId=candidate to link, OR rename/remove local group so IdP group can claim the name."
+469257713894597,EXAMPLE-GROUP-220,,1,2839e018-1201-483b-af55-4f8c3fb3070c,"Single IdP match. Either PATCH externalId=candidate to link, OR rename/remove local group so IdP group can claim the name."
+418478502969864,EXAMPLE-GROUP-447,,1,c8b02a21-cd1b-4dda-afb0-ec97ad0002a0,"Single IdP match. Either PATCH externalId=candidate to link, OR rename/remove local group so IdP group can claim the name."
+650550051880677,EXAMPLE-GROUP-708,,1,f9db313c-839e-45ba-ade2-c09fb3690d94,"Single IdP match. Either PATCH externalId=candidate to link, OR rename/remove local group so IdP group can claim the name."
+2227803577089471,test1,,1,a2db9b0a-c033-4d98-a660-b1505e7750bc,"Single IdP match. Either PATCH externalId=candidate to link, OR rename/remove local group so IdP group can claim the name."

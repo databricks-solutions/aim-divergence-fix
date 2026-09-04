@@ -1,0 +1,3 @@
+id,applicationId,externalId,errorCategories,action
+367228331044187,d4a6f2c5-7e1b-4f4d-8c5a-4b9e0f1d2a34,5d2e4f6a-7b8c-9d0e-1f2a-3b4c5d6e7f80,EXTERNAL_ID_MATCH_NAME_MISMATCH,File Databricks Support ticket to correct service principal name. DUPLICATE RISK: creates a 2nd SP on next use if unresolved.
+992556310372866,e5b7a3d6-8f2c-4a5e-9d6b-5c0f1a2e3b45,6e3f5a7b-8c9d-0e1f-2a3b-4c5d6e7f8091,EXTERNAL_ID_MATCH_NAME_MISMATCH,File Databricks Support ticket to correct service principal name. DUPLICATE RISK: creates a 2nd SP on next use if unresolved.
